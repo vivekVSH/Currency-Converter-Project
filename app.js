@@ -1,4 +1,5 @@
-const API_KEY = "7b2695cf89fcbc6c970e343e";
+const API_KEY = "Past your api here";
+//you have to visit exchangerate web and create your own api and past in API_KEY
 const BASE_URL = `https://v6.exchangerate-api.com/v6/${API_KEY}/latest`;
 
 const dropdowns = document.querySelectorAll(".dropdown select");
