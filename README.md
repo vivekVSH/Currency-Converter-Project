@@ -13,3 +13,6 @@ A simple web-based currency converter using the ExchangeRate API.
 
 ## Run
 Just open `index.html` in a browser.
+And 
+You have to create your api on the exchangerate and add in app.js
+goto this web = https://www.exchangerate-api.com/
